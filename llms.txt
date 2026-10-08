@@ -1,0 +1,20 @@
+# DouyinDataReview（内容数据工作台）
+
+> 免费开源（MIT）的抖音数据回顾桌面应用，支持 Windows 和 macOS：读取你自己的抖音观看历史、喜欢、收藏和聊天记录，保存在本机，随时生成抖音年度报告（类似 Spotify Wrapped）和持续报告。也能导出全部记录为 JSON、导入抖音官方「个人信息下载」档案、实时接收聊天和续火花、批量下载视频。
+
+- 记录只存在用户自己的电脑上，不接外部 AI，也不发给统计或分析服务。
+- 需要本机装有 Chrome、Edge、Brave 或 Chromium；界面是中文。
+- 增量读取走抖音未公开承诺的接口，可能失效或触发风控，只适合用在自己的账号上。
+- 本站这个域名只有这一个项目，根路径会跳转到下载页。
+
+## 文档
+
+- [README](https://raw.githubusercontent.com/ZhangYukwiver/DouyinDataReview/main/README.md)：功能、安装、本地数据、常见问题（纯文本原文）
+- [下载页](https://zhangyukwiver.github.io/DouyinDataReview/)：Windows / macOS 安装包、国内加速线路、常见问题
+- [在线示例报告](https://zhangyukwiver.github.io/DouyinDataReview/demo/story-entry.html)：不用安装的抖音年度报告演示，数据是编出来的
+- [最新版本](https://github.com/ZhangYukwiver/DouyinDataReview/releases/latest)：安装包与更新说明
+- [源码仓库](https://github.com/ZhangYukwiver/DouyinDataReview)
+
+## English
+
+DouyinDataReview is a free, MIT-licensed desktop app for Windows and macOS. It reads your own Douyin (Chinese TikTok) watch history, likes, favorites and chats, keeps them on your computer, and builds a Wrapped-style year-in-review and a rolling report. It can export all records as JSON, import Douyin's official personal data download, keep chat streaks going and batch-download videos. The interface is in Chinese.
